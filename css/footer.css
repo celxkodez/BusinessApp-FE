@@ -1,0 +1,63 @@
+@import url('http://fonts.googleapis.com/css?family=rubik:400,600');
+
+body{
+    font-family: rubik, sans-serif;
+}
+nav{
+    padding-top: 2rem;
+}
+footer{
+    background-color: #23374D;
+    color: white;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+footer a:hover{
+    text-decoration: none;
+    color: white;
+}
+hr{
+    background-color: white;
+}
+.copyright{
+    text-align: center;
+    padding-bottom: 1rem;
+}
+.logo_title{
+    color: #ffffff;
+    font-size: 30px;
+    padding-left: 3.8rem;
+    margin-top: -3.3rem;
+}
+
+#footer-logo {
+    width: 50px;
+}
+.Subscribe-header{
+    font-weight: normal;
+    font-size: 14px;
+}
+.social-media h3{
+    font-weight: normal;
+    font-size: 16px;
+    padding-right: 1rem;
+    margin-top: .3rem;
+}
+form button{
+    font-size: 14px !important;
+    border-radius: 3px !important;
+    background: #1089FF !important;
+    box-shadow: none;
+}
+.social-media {
+  display: flex;
+}
+.social-media a{
+    padding-right: 1rem;
+    text-decoration: none;
+}
+
+
+
