@@ -9,6 +9,7 @@ nav{
 footer{
     background-color: #23374D;
     color: white;
+    height: auto;
 }
 footer a{
     color: white;
@@ -27,13 +28,13 @@ hr{
 }
 .logo_title{
     color: #ffffff;
-    font-size: 30px;
+    font-size: 20px;
     padding-left: 3.8rem;
     margin-top: -3.3rem;
 }
 
 #footer-logo {
-    width: 50px;
+    width: 30px;
 }
 .Subscribe-header{
     font-weight: normal;
@@ -45,19 +46,28 @@ hr{
     padding-right: 1rem;
     margin-top: .3rem;
 }
-form button{
+.form-inline button{
     font-size: 14px !important;
     border-radius: 3px !important;
     background: #1089FF !important;
     box-shadow: none;
+    padding: 14px
+  min-width: 60px;
+  border: none;
+  cursor: pointer;
+  height: 25px;
+  margin-left: 10px;
+  margin-top: 5px;
 }
-.social-media {
+
+.form-inline input {
+    height: 25px !important;
+}
+/*.social-media {
   display: flex;
 }
 .social-media a{
     padding-right: 1rem;
     text-decoration: none;
-}
-
-
+}*/
 
